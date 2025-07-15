@@ -329,7 +329,7 @@ th, td {
   margin-bottom: 10px;
 }
 
-@media(max-wiidht:911px) {
+@media (max-width: 911px) {
   .menu {
     padding: 20px;
   }
